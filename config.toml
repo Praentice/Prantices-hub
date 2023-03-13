@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
   image = "images/prantice.png"  # path relative to static directory
 
   links = [
-    { email = {href = "mailto:contact@prantice.fr", text = "Contact Me !"} },
+    { email = {href = "mailto:contact@prantice.fr", text = "Contact me !"} },
     { link = {href = "https://dfrecipes.fr", text = "DFRecipes"} },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
@@ -48,6 +48,7 @@ disableKinds = ["taxonomy", "term"]
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     { twitter = "https://twitter.com/ThePrantice" },
+    { buy-me-a-coffee = {href = "https://dfrecipes.fr", text = "Buy me a coffee !", icon = "icons/mug-hot-solid.svg"} },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
   ]
