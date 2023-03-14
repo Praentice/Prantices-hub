@@ -48,7 +48,7 @@ disableKinds = ["taxonomy", "term"]
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     { twitter = "https://twitter.com/ThePrantice" },
-    { buy-me-a-coffee = {href = "https://dfrecipes.fr", text = "Buy me a coffee !", icon = "icons/mug-hot-solid.svg"} },
+    { buy-me-a-coffee = {href = "https://www.buymeacoffee.com/prantice", text = "Buy me a coffee !", icon = "icons/mug-hot-solid.svg"} },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
   ]
