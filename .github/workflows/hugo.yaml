@@ -1,2 +1,3 @@
+# Test
 - name: Hugo setup
   uses: peaceiris/actions-hugo@v2.6.0
