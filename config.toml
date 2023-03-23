@@ -3,10 +3,12 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "Prantice"
-copyright = "Copy, _right?_ :thinking_face:"
-
+copyright = "Copyright 2023"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
+
+[params.google]
+  analytics  = "G-9FEMFN5575"
 
 [author]
   name = "Prantice"
