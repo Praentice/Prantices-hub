@@ -6,9 +6,7 @@ title = "Prantice"
 copyright = "Copyright 2023"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
-
-[params.google]
-  analytics  = "G-9FEMFN5575"
+googleAnalytics = "G-9FEMFN5575"
 
 [author]
   name = "Prantice"
