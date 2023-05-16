@@ -16,6 +16,7 @@ googleAnalytics = "G-9FEMFN5575"
   links = [
     { email = {href = "mailto:contact@prantice.fr", text = "Contact me !"} },
     { link = {href = "https://dfrecipes.fr", text = "DFRecipes"} },
+    { link = {href = "https://prantice.gumroad.com/", text = "French self-improvement store"} },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
