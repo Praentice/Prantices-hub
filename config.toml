@@ -10,12 +10,12 @@ googleAnalytics = "G-9FEMFN5575"
 
 [author]
   name = "Prantice"
-  headline = "CS Student / DFIR enjoyer / Forever Learner"
+  headline = "Cybersec engineer / DFIR enjoyer / Forever Learner"
   image = "images/prantice.png"  # path relative to static directory
 
   links = [
     { email = {href = "mailto:contact@prantice.fr", text = "Contact me !"} },
-    { link = {href = "https://dfrecipes.fr", text = "DFRecipes"} },
+    { link = {href = "https://dfirrecipes.com", text = "DFIR Recipes"} },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
