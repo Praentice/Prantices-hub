@@ -15,7 +15,12 @@ googleAnalytics = "G-9FEMFN5575"
 
   links = [
     { email = {href = "mailto:contact@prantice.fr", text = "Contact me !"} },
-    { link = {href = "https://dfirrecipes.com", text = "DFIR Recipes"} },
+    { link = {href = "https://www.root-me.org/Prantice?inc=info&lang=fr", text = "Root Me"} },
+    { link = {href = "https://www.newbiecontest.org/index.php?page=info_membre&id=84424", text = "Newbie Contest"} },
+    { link = {href = "https://tryhackme.com/r/p/Prantice", text = "Try Hack Me"} },
+    { link = {href = "https://www.hackthebox.com/", text = "Hack The Box (Prantice #455665)"} },
+    { link = {href = "https://blueteamlabs.online/home/user/20771115c57e505dae4df5", text = "Blue Team Labs Online"} },
+    #{ link = {href = "https://dfirrecipes.com", text = "DFIR Recipes"} },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
@@ -47,7 +52,7 @@ googleAnalytics = "G-9FEMFN5575"
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
-    { twitter = "https://twitter.com/ThePrantice" },
+    #{ twitter = "https://twitter.com/username" },
     { buy-me-a-coffee = {href = "https://www.buymeacoffee.com/prantice", text = "Buy me a coffee !", icon = "icons/mug-hot-solid.svg"} },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
